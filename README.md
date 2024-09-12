@@ -42,6 +42,7 @@ This script will:
   Check and install missing dependencies.
    Copy the pickpac.py script to /usr/local/bin and make it executable.
 
+
 Run PickPac:
 
 After installation, you can run PickPac from the terminal:
@@ -64,3 +65,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+![pickpac3](https://github.com/user-attachments/assets/ab9a65e8-4455-442a-8b74-ef3cab575018)
+![pickpac1](https://github.com/user-attachments/assets/06ae8973-a104-4939-ae6f-9dd0811e25b5)
+![pickpac](https://github.com/user-attachments/assets/ff7a86c9-fa7c-49d4-92a4-3f228df502ea)
