@@ -25,7 +25,7 @@ Installation
 
    bash
 
-git clone https://github.com/yourusername/pickpac.git](https://github.com/ahamedrashid-me/pickpac.git
+git clone https://github.com/ahamedrashid-me/pickpac.git
 
 cd pickpac
 
